@@ -1,0 +1,7 @@
+E:\Demo 4.1 Propel June 24\ConsoleApp1\LMS2024\bin\Release\LMS2024.exe.config
+E:\Demo 4.1 Propel June 24\ConsoleApp1\LMS2024\bin\Release\LMS2024.exe
+E:\Demo 4.1 Propel June 24\ConsoleApp1\LMS2024\bin\Release\LMS2024.pdb
+E:\Demo 4.1 Propel June 24\ConsoleApp1\LMS2024\obj\Release\ConsoleAppLMS2024.csproj.AssemblyReference.cache
+E:\Demo 4.1 Propel June 24\ConsoleApp1\LMS2024\obj\Release\ConsoleAppLMS2024.csproj.CoreCompileInputs.cache
+E:\Demo 4.1 Propel June 24\ConsoleApp1\LMS2024\obj\Release\LMS2024.exe
+E:\Demo 4.1 Propel June 24\ConsoleApp1\LMS2024\obj\Release\LMS2024.pdb
